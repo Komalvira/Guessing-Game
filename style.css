@@ -1,0 +1,19 @@
+input{
+    padding: 10px;
+    border-radius: 15px;
+}
+
+button{
+    padding: 10px 10px;
+    background-color: aquamarine;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#displayedText{
+    background-color: aliceblue;
+    color: blueviolet;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
